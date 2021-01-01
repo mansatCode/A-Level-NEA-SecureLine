@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureLine", "SecureLine\SecureLine.csproj", "{E6A3A94B-E2B4-4783-AFAA-D7C4B7D56B47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureLineUI", "SecureLine\SecureLineUI.csproj", "{E6A3A94B-E2B4-4783-AFAA-D7C4B7D56B47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
