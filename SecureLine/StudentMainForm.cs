@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SecureLine
 {
-    public partial class Form1 : Form
+    public partial class StudentMainForm : Form
     {
-        public Form1()
+        public StudentMainForm()
         {
             InitializeComponent();
         }
