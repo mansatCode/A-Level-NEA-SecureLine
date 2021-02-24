@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SecureLine
@@ -16,6 +13,10 @@ namespace SecureLine
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            //Initalise the database connection
+            GlobalConfig.InitaliseConnection(true);
+
             Application.Run(new LoginWindowForm());
         }
     }
